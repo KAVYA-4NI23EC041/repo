@@ -124,7 +124,7 @@ The total estimated cost for the prototype was approximately **₹3,300**.
 
 ---
 
-### 2. System Architecture (Wiring Logic)
+### System Architecture (Wiring Logic)
 
 **Flowchart:**
 This diagram illustrates the data flow from the sensors to the microcontroller and finally to the actuators.
