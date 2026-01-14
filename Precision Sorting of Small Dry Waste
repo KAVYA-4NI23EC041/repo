@@ -1,5 +1,3 @@
-# Precision Sorting of Small Dry Waste
-
 # Monostable multivibrator using 555 timer IC . <br>
 <p> A multivibrator is a switching circuit that uses two amplifying stages with positive feedback to generate square waves. It oscillates between HIGH and LOW states and is widely used in digital electronics for timing, data storage, and signal generation. There are three types: astable (free-running), monostable (one-shot), and bistable (flip-flop).</p>
 
